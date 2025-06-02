@@ -113,13 +113,6 @@ Este repositório contém o passo a passo do **Laboratório - Amazon S3 Básico*
 
 ---
 
-## 8️⃣ Limpeza dos Recursos (Importante!)
-
-Após concluir o laboratório, **exclua todos os buckets criados** para evitar custos desnecessários.  
-- Exclua o bucket principal.
-- Exclua o bucket de logs.  
-
----
 
 ## 📌 Notas Finais
 
